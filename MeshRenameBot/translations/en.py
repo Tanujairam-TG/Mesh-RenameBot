@@ -2,7 +2,7 @@ class EnTrans:
     
     WRONG_VALUE_ERROR = "Invalid value entered for {} variable."
     
-    START_MSG =( "🗡️ᎻᏆ {} Ꮖ ᎪᎷ ᎷᏦ ᏴϴͲ 😍\n" 
+    START_MSG =( "🗡️ᎻᏆ ᎠᎬᎪᎡ🥰  Ꮖ ᎪᎷ ᎷᏦ ᏴϴͲ 😍\n" 
 
                 "Ꮖ ᏟᎪΝ ᎡᎬΝᎪᎷᎬ ᎽϴႮᎡ ҒᏆᏞᎬՏ ᎪΝᎠ ҒᏆᏞᎬՏ ᏟᎻᎪΝᏀᏆΝᏀ 😍\n"
 
