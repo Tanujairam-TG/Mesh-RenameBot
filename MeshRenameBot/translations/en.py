@@ -2,9 +2,9 @@ class EnTrans:
     
     WRONG_VALUE_ERROR = "Invalid value entered for {} variable."
     
-    START_MSG = "🗡️ᎻᏆ{NAME} Ꮖ ᎪᎷ ᎷᏦ ᏴϴͲ 😍 /n/n" 
+    START_MSG = "🗡️ᎻᏆ{NAME} Ꮖ ᎪᎷ ᎷᏦ ᏴϴͲ 😍/n/n" 
 
-                "Ꮖ ᏟᎪΝ ᎡᎬΝᎪᎷᎬ ᎽϴႮᎡ ҒᏆᏞᎬՏ ᎪΝᎠ ҒᏆᏞᎬՏ ᏟᎻᎪΝᏀᏆΝᏀ 😍 /n"
+                "Ꮖ ᏟᎪΝ ᎡᎬΝᎪᎷᎬ ᎽϴႮᎡ ҒᏆᏞᎬՏ ᎪΝᎠ ҒᏆᏞᎬՏ ᏟᎻᎪΝᏀᏆΝᏀ 😍/n"
 
                 "🗡️ᏀᏆᏙᎬ ᎷᎬ ᎪΝᎽ ҒᏆᏞᎬ Ͳϴ ᏟᎻᎪΝᏀᎬ 🆓🆓🆓"
 
