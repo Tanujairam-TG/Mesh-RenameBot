@@ -2,11 +2,11 @@ class EnTrans:
     
     WRONG_VALUE_ERROR = "Invalid value entered for {} variable."
     
-    START_MSG = "🗡️ᎻᏆ{NAME} Ꮖ ᎪᎷ ᎷᏦ ᏴϴͲ 😍 "
+    START_MSG = "hi"
 
-"Ꮖ ᏟᎪΝ ᎡᎬΝᎪᎷᎬ ᎽϴႮᎡ ҒᏆᏞᎬՏ ᎪΝᎠ ҒᏆᏞᎬՏ ᏟᎻᎪΝᏀᏆΝᏀ 😍 "
 
-"🗡️ᏀᏆᏙᎬ ᎷᎬ ᎪΝᎽ ҒᏆᏞᎬ Ͳϴ ᏟᎻᎪΝᏀᎬ 🆓🆓🆓 "
+
+
      
     CANCEL_MESSAGE = "The rename has been canceled. Will be updated soon."
     
