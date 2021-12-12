@@ -2,7 +2,7 @@ class EnTrans:
     
     WRONG_VALUE_ERROR = "Invalid value entered for {} variable."
     
-    START_MSG = "hi {name}"
+    START_MSG = "hi {} how are you"
 
 
 
